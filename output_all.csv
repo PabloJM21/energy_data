@@ -1,0 +1,11 @@
+JobID,host_name,model,backend,device,mAP,avg_query,accuracy,qps,queries,frequency,energy,Time
+5001041,ggpu226,retinanet,onnxruntime,cpu,37.850%,0.8213,36.616%,8.92,10,2ghz,253.36K,00:04:04
+5001570,ggpu226,retinanet,onnxruntime,cpu,37.850%,0.7792,36.616%,9.07,10,2.5ghz,242.46K,00:04:07
+5002252,ggpu226,retinanet,onnxruntime,cpu,37.850%,0.7591,36.616%,9.33,10,1.5ghz,242.34K,00:04:06
+5002721,ggpu226,retinanet,onnxruntime,cpu,37.850%,0.7722,36.616%,9.16,10,1.7ghz,259.88K,00:04:16
+5003019,ggpu226,retinanet,onnxruntime,cpu,37.850%,0.8344,36.616%,8.86,10,2.3ghz,238.86K,00:04:11
+5003688,ggpu226,retinanet,onnxruntime,cpu,37.850%,0.8133,36.616%,8.98,10,2.8ghz,244.64K,00:04:08
+5005628,ggpu238,retinanet,pytorch,cpu,37.850%,4.2128,34.975%,2.15,10,2ghz,311.51K,00:04:54
+5005913,ggpu238,retinanet,pytorch,cpu,37.850%,4.1696,34.975%,2.18,10,1.5ghz,318.37K,00:04:56
+5006191,ggpu238,retinanet,pytorch,cpu,37.850%,4.3128,34.975%,2.12,10,2.5ghz,296.14K,00:04:47
+5013430,ggpu238,retinanet,onnxruntime,cuda,37.850%,1.5273,36.616%,3.6,10,1.5ghz,517.57K,00:08:30

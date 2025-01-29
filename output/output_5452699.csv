@@ -1,0 +1,2 @@
+JobID,host_name,model,backend,device,mAP,avg_query,accuracy,qps,queries,frequency
+5452699,gcn2001,retinanet,pytorch,cpu,,5.7307,,1.69,10,2000000

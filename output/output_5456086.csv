@@ -1,0 +1,2 @@
+JobID,host_name,model,backend,device,mAP,avg_query,accuracy,qps,queries,frequency
+5456086,gcn2001,retinanet,onnxruntime,cpu,,3.4926,,2.73,10,2800000

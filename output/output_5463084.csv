@@ -1,0 +1,2 @@
+JobID,host_name,model,backend,device,mAP,avg_query,accuracy,qps,queries,frequency
+5463084,ggpu226,bert-99,onnxruntime,cpu,,,,,,1800000

@@ -1,26 +1,26 @@
-Architecture:        x86_64
-CPU op-mode(s):      32-bit, 64-bit
-Byte Order:          Little Endian
-CPU(s):              192
-On-line CPU(s) list: 0-191
-Thread(s) per core:  2
-Core(s) per socket:  48
-Socket(s):           2
-NUMA node(s):        4
-Vendor ID:           GenuineIntel
-CPU family:          6
-Model:               85
-Model name:          Intel(R) Xeon(R) Platinum 9242 CPU @ 2.30GHz
-Stepping:            7
-CPU MHz:             2300.000
-CPU max MHz:         3800.0000
-CPU min MHz:         1000.0000
-BogoMIPS:            4600.00
-L1d cache:           32K
-L1i cache:           32K
-L2 cache:            1024K
-L3 cache:            36608K
-NUMA node0 CPU(s):   0-23,96-119
-NUMA node1 CPU(s):   24-47,120-143
-NUMA node2 CPU(s):   48-71,144-167
-NUMA node3 CPU(s):   72-95,168-191
+Architecture,x86_64
+CPU op-mode(s),32-bit, 64-bit
+Byte Order,Little Endian
+CPU(s),192
+On-line CPU(s) list,0-191
+Thread(s) per core,2
+Core(s) per socket,48
+Socket(s),2
+NUMA node(s),4
+Vendor ID,GenuineIntel
+CPU family,6
+Model,85
+Model name,Intel(R) Xeon(R) Platinum 9242 CPU @ 2.30GHz
+Stepping,7
+CPU MHz,2300.000
+CPU max MHz,3800.0000
+CPU min MHz,1000.0000
+BogoMIPS,4600.00
+L1d cache,32K
+L1i cache,32K
+L2 cache,1024K
+L3 cache,36608K
+NUMA node0 CPU(s),0-23_96-119
+NUMA node1 CPU(s),24-47_120-143
+NUMA node2 CPU(s),48-71_144-167
+NUMA node3 CPU(s),72-95_168-191

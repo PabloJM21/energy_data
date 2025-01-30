@@ -11,5 +11,11 @@ JobID,partition,host_name,model,framework,device,mAP,avg_query,accuracy,qps,quer
 5447767,kisski-h100,ggpu226,retinanet,onnxruntime,cpu,,0.78,,11.32,10,2.3,339.88,00:05:36
 5448199,kisski-h100,ggpu226,retinanet,onnxruntime,cpu,,0.8149,,11.05,10,2.5,379.23,00:05:31
 5449154,kisski-h100,ggpu226,retinanet,onnxruntime,cpu,,0.8215,,11.04,10,2.8,395.26,00:05:46
+5478406,jupyter:cpu,gcn2001,retinanet,onnxruntime,cpu,,3.3609,,2.84,10,1.5,740.30,00:08:40
+5478597,jupyter:cpu,gcn2001,retinanet,onnxruntime,cpu,,3.4459,,2.79,10,1.8,630.42,00:08:49
+5481312,jupyter:cpu,gcn2001,retinanet,onnxruntime,cpu,,3.9766,,2.41,10,2,625.75,00:08:45
+5481694,jupyter:cpu,gcn2001,retinanet,onnxruntime,cpu,,3.677,,2.64,10,2.3,640.31,00:08:37
+5482045,jupyter:cpu,gcn2001,retinanet,onnxruntime,cpu,,3.7965,,2.54,10,2.5,620.42,00:09:07
+5482518,jupyter:cpu,gcn2001,retinanet,onnxruntime,cpu,,3.5786,,2.67,10,2.8,623.85,00:09:00
 
 
